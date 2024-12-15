@@ -24,7 +24,7 @@ This is a web application designed to help you stay focused and productive. It f
 
 * **Pomodoro Timer:**
 * Set custom work and break intervals.
-@@ -15,3 +31,61 @@ This is a web application designed to help you stay focused and productive. It f
+
 * **Goals Tracker:**
 * Set long-term and short-term goals.
 * Track progress towards goals.
@@ -33,7 +33,7 @@ This is a web application designed to help you stay focused and productive. It f
 ## Technologies Used
 
 - **Frontend**: [HTML, CSS, JavaScript, React]
-- **Backend**: [Node.js]
+- **Backend**: [Node.js,FireBase]
 - **Database**: [TBA]
 - **Styling**: [Tailwind CSS, Material UI]
 - **APIs**: [TBA]
