@@ -1,7 +1,10 @@
-# Productivity Tracker
 ![Build-A-Site](https://i.imgur.com/nZPQ9If.png)
 
-# Productivity Tracker (SVAP)
+# FocusMorph - Transform Your Focus, Track Your Success (SVAP)
+
+<p align="center">
+  <img src="https://github.com/DotDev262/Build-A-Site-GDSC/blob/main/Logo.png" alt="FocusMorph Logo"/>
+</p>
 
 This is a web application designed to help you stay focused and productive. It features a Pomodoro timer, a task list, and a goals tracker.
 
