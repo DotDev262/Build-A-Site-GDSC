@@ -7,7 +7,7 @@
   
 </p>
 
-This is a web application designed to help you stay focused and productive. It features a Pomodoro timer, a task list, and a goals tracker.
+This is a **responsive web** application designed to help you stay focused and productive. It features a Pomodoro timer, a task list, and a goals tracker.
 
 **Features**
 ---
