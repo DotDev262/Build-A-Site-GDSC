@@ -3,7 +3,7 @@
 # FocusMorph - Transform Your Focus, Track Your Success (SVAP)
 
 <p align="center">
-  <img src="https://github.com/DotDev262/Build-A-Site-GDSC/blob/main/src/components/Logo.png" alt="FocusMorph Logo"/>
+  <img src="./src/components/Logo.png" alt="FocusMorph Logo"/>
   
 </p>
 
@@ -26,48 +26,53 @@ This is a web application designed to help you stay focused and productive. It f
 
 ## Features
 
+* **Task List** 
+  - Lets you track your tasks and the due date
+  - Tracks the progress of your task.
+
 * **Pomodoro Timer:**
-* Set custom work and break intervals.
+  - Set custom work and break intervals.
 
 * **Goals Tracker:**
-* Set long-term and short-term goals.
-* Track progress towards goals.
+  - Set long-term and short-term goals.
+  - Track progress towards goals.
 
 
 ## Technologies Used
 
-- **Frontend**: [HTML, CSS, JavaScript, React]
-- **Backend**: [Node.js,FireBase]
-- **Database**: [TBA]
-- **Styling**: [Tailwind CSS, Material UI]
-- **APIs**: [TBA]
-- **Hosting**: [Vercel]
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js
+- **Styling**: Tailwind CSS, Material UI
+- **Hosting**: Vercel
 
----
 
 
 ## Installation
 
 ### Prerequisites
-[Add the prerequisites to run the website here]
+
+  - [NodeJS](https://nodejs.org/en)
 
 ### Steps to run the project
-[Add the instructions to run the website here]
+
+**Install the above node modules and run the following command :**
+
+``` bash
+  npm run dev
+```
 
 ## Usage
 
-1. Describe how to use your website, e.g., "Navigate to the home page, log in, and explore various features like [feature examples]."
-2. Provide any credentials if applicable for testing (e.g., demo accounts).
+1. Access the Homepage: Open your web browser and navigate to the homepage URL.
 
----
+2. Familiarize Yourself with the Interface: Explore each section of the homepage to understand where everything is located.
+
+
 
 ## Screenshots
 
-![Screenshot 1]()
-*Caption for the screenshot.*
-
-![Screenshot 2]()
-*Caption for the screenshot.*
+![Homepage](./resource/homepage.png)
+**Homepage**
 
 ---
 
@@ -79,9 +84,7 @@ We thank the following people for their contributions to this project:
 - **[Srivishnu T]** - [GitHub Profile](https://github.com/srivishnu2805)
 - **[Vasist Kandagatla]** - [GitHub Profile](https://github.com/Vasist10)
 
-Feel free to add your name if you contribute to this project during the Build-A-Site hackathon!
 
----
 
 ## Contact
 
