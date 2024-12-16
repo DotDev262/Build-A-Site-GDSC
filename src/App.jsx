@@ -6,7 +6,7 @@ import ProductivityStats from "./components/ProductivityStats";
 import { useLocalStorage } from "./hooks/useLocalStorage";
 import { StorageKeys } from "./utils/storage";
 import { useMouseTrail } from "./hooks/useMouseTrail";
-import logo from "./components/logo.png";
+import logo from "./components/Logo.png";
 
 function App() {
   const [tasks] = useLocalStorage(StorageKeys.TASKS, []);
