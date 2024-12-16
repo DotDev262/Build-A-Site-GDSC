@@ -22,11 +22,7 @@ function App() {
           <div className="flex items-center gap-2">
             <img id="logo" src={logo} alt="My Image" />
             <h1 className="text-2xl font-bold text-gray-900">FOCUS MORPH</h1>
-            <div className="flex justify-end items-center px-4 w-full">
-              <button className="button-89" role="button" onClick={() => (window.location.href = "")}>
-                Logout
-              </button>
-            </div>
+
           </div>
         </div>
       </header>
