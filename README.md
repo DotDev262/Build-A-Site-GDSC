@@ -55,10 +55,10 @@ This is a web application designed to help you stay focused and productive. It f
 
 ### Steps to run the project
 
-**Install the above node modules and run the following command :**
+**Install the node modules and run the following command :**
 
 ``` bash
-  npm run dev
+  npm i && npm run dev
 ```
 
 ## Usage
